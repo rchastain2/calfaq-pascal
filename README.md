@@ -1,2 +1,8 @@
-# calfaq-pascal
-Pascal unit for CALFAQ C library
+# CALFAQ Pascal
+
+Pascal unit for [CALFAQ](https://tondering.dk/overview/en/calendar) C library.
+
+```
+make demo
+./demo
+```
